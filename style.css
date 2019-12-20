@@ -1,0 +1,97 @@
+body {
+    height: 100vh;
+    
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.teclas {
+    width: 40%;
+    height: 400px;
+    background-color: #696565;
+}
+
+.tp1 {
+    position: absolute;
+    background: transparent;
+    width: 62px;
+    height: 239px;
+    background-color: black;
+    margin-left: 54px;
+    margin-top: 5px;
+}
+
+.tp2 {
+    position: absolute;
+    background: transparent;
+    width: 62px;
+    height: 239px;
+    background-color: black;
+    margin-left: 216px;
+    margin-top: 5px;
+}
+
+.tc1 {
+    float: left;
+    width: 14%;
+    height: 97%;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: black;
+    transition: all 2s ease-out;
+}
+
+.tc1:active {
+    background-color: #c0c0c0;
+}
+.tc2 {
+    float: left;
+    width: 14%;
+    height: 97%;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 1%;
+    border: black;
+}
+
+.tc3 {
+    float: left;
+    width: 14%;
+    height: 97%;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 1%;
+    border: black;
+}
+
+.tc4 {
+    float: left;
+    width: 14%;
+    height: 97%;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 1%;
+    border: black;
+}
+
+.tc5 {
+    float: left;
+    width: 14%;
+    height: 97%;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 1%;
+    border: black;
+}
+.tc6 {
+    float: left;
+    width: 14%;
+    height: 97%;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 1%;
+    border: black;
+}
+
